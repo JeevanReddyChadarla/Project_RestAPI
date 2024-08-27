@@ -9,3 +9,5 @@ Get Expense, Post Expense, Delete Expense, Update Expense,
 ### Other operations - 
 sorting the expenses, pagination, Authorization using jwt token, Exception handling for wrong inputs, FIlter by keyword/date/Category
 
+![alt text](image.png)
+
